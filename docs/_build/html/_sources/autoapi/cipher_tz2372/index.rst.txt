@@ -1,0 +1,23 @@
+:py:mod:`cipher_tz2372`
+=======================
+
+.. py:module:: cipher_tz2372
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   cipher_tz2372/index.rst
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+   
+
+   
+
